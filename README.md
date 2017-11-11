@@ -56,6 +56,4 @@ As a UX designer who is very interested in motion design, I decided to explore t
 ![Image](Images/10.png)
 ![Image](Gifs/Image.gif)
 
-Enjoy it! Thank you for reading.
-
-For more motion works, please visit: 
+Thank you for reading. For design details, please visit my[Medium blog](https://medium.com/@JoeyQiang/the-animated-interface-a-user-experience-perspective-on-best-practices-in-ui-design-4520f024b801)
