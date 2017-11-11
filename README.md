@@ -1,5 +1,8 @@
 # Framer-Animations-for-10-Mobile-Interaction-Situations
-The 10 animations are purposely created for 10 frequent mobile interaction situations
+
+Animation is fast becoming a common element of interface design. But understanding how animations serve to improve the functions of graphical user interfaces, and not distract from them is not always clear.
+
+As a UX designer who is very interested in motion design, I decided to explore the topic of making animation for user interface, hoping it can bring useful ideas to designers.
 
 **SITUATION 1: Banner**
 
@@ -41,5 +44,5 @@ The 10 animations are purposely created for 10 frequent mobile interaction situa
 
 ![Image](Gifs/Image.gif)
 
-
 Enjoy it! Thank you for reading.
+For more motion works, please visit: 
