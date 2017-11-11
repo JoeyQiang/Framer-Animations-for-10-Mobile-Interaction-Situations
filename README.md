@@ -6,52 +6,52 @@ As a UX designer who is very interested in motion design, I decided to explore t
 
 ![Abstract](Images/abstract.jpeg)
 
-**SITUATION 1: Banner**
+## SITUATION 1: Banner
 
 ![Banner](Images/01.jpeg)
 ![Banner](Gifs/Banner.gif)
 
-**SITUATION 2: Form**
+## SITUATION 2: Form
 
 ![Form](Images/02.jpeg)
 ![Form](Gifs/Form.gif)
 
-**SITUATION 3: Stage**
+## SITUATION 3: Stage
 
 ![Stage](Images/03.jpeg)
 ![Stage](Gifs/Stage.gif)
 
-**SITUATION 4: Menu**
+## SITUATION 4: Menu
 
 ![Menu](Images/04.jpeg)
 ![Menu](Gifs/Menu.gif)
 
-**SITUATION 5: Transition**
+## SITUATION 5: Transition
 
 ![Transition](Images/05.jpeg)
 ![Transition](Gifs/Transition.gif)
 
-**SITUATION 6: Background**
+## SITUATION 6: Background
 
 ![Background](Images/06.jpeg)
 ![Background](Gifs/Background.gif)
 
-**SITUATION 7: Loading**
+## SITUATION 7: Loading
 
 ![Loading](Images/07.jpeg)
 ![Loading](Gifs/Loading.gif)
 
-**SITUATION 8: Scrolling**
+## SITUATION 8: Scrolling
 
 ![Scrolling](Images/08.jpeg)
 ![Scrolling](Gifs/Scrolling.gif)
 
-**SITUATION 9: Hover**
+## SITUATION 9: Hover
 
 ![Hover](Images/09.jpeg)
 ![Hover](Gifs/Hover.gif)
 
-**SITUATION 10: Image**
+## SITUATION 10: Image
 
 ![Image](Images/10.jpeg)
 ![Image](Gifs/Image.gif)
